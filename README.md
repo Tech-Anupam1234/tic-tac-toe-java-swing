@@ -22,20 +22,19 @@ A GUI-based Tic Tac Toe game built using Java Swing and AWT.
 ## Project Screenshots
 
 ### Home Screen
-
-screenshots/game-home.png
+![HomeScreen](screenshots/game-home.png)
 
 ### Gameplay
 
-screenshots/gameplay.png
+![GamePlay](screenshots/gameplay.png)
 
 ### Winner Screen
 
-screenshots/winner.png
+![WinnerScreen](screenshots/winner.png)
 
 ### Draw Screen
 
-screenshots/draw.png
+![DrawScreen](screenshots/draw.png)
 
 ## How to Run
 
