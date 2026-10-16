@@ -11,6 +11,7 @@ A GUI-based Tic Tac Toe game built using Java Swing and AWT.
 - Scoreboard
 - Restart Button
 - Winning Move Highlight
+- Swing-based Graphical User Interface
 
 ## Technologies Used
 
@@ -18,20 +19,18 @@ A GUI-based Tic Tac Toe game built using Java Swing and AWT.
 - Swing
 - AWT
 
-## Project Screenshot
+## Project Screenshots
 
 ### Home Screen
 
-![Homeshots/game-home.png
+![Home Screen](screenshots/game-home.png)![Gameplays/gameplay.png
 
-### Gameplay
+### Winner Screen
 
-![Gameplay/gameplay.png
+screenshots/winner.png
 
-### GameWinner
-![Winnershots/winner.png
+### Draw Screen
 
-### GameDraw
 ![Drawshots/draw.png
 
 ## How to Run
@@ -41,6 +40,36 @@ javac TicTacToeUI.java
 java TicTacToeUI
 ```
 
+## Project Structure
+
+```text
+tic-tac-toe-java-swing
+│
+├── screenshots
+│   ├── game-home.png
+│   ├── gameplay.png
+│   ├── winner.png
+│   └── draw.png
+│
+├── Game.java
+├── TicTacToeUI.java
+├── README.md
+└── .gitignore
+```
+
+## Future Enhancements
+
+- Player Name Input
+- Current Turn Indicator
+- Undo Move
+- Dark Theme
+- Best of 3 / Best of 5 Mode
+- AI Opponent
+- Match History
+- Sound Effects
+
 ## Author
 
-Tech-Anupam1234
+**Anupam**
+
+GitHub: **Tech-Anupam1234**
